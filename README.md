@@ -4,7 +4,7 @@ The power iteration, the inverse power iteration, and the Rayleigh quotient iter
 
 # Eigenvalue and Eigenvector Calculator
 
-The C++ and python programs implement various algorithms to calculate eigenvalues and eigenvectors of matrices. It uses the Eigen library for efficient matrix operations and provides multiple methods for eigenvalue computation.
+The C++ and python programs implement various algorithms to calculate eigenvalues and eigenvectors of matrices. The programs use the Eigen library for efficient matrix operations and provides multiple methods for eigenvalue computation.
 
 # Features
 
